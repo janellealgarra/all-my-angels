@@ -1,0 +1,105 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-image: url('Images/IMG_2763.jpg');
+  background-repeat: repeat;
+  background-size: 1500px 2000px;
+  background-attachment: fixed;
+  background-position: center;
+
+/**  margin: 0px;
+  padding: 0px;
+
+  **/
+}
+
+h1 {
+  font-family: 'Syne', sans-serif;
+  text-align: center;
+  font-size: 50px;
+  color: #FFFFFF;
+  /*text-shadow: 1px 1px 2px #FBF0FF;*/
+
+}
+
+
+.frontImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 400px;
+  height: 500px;
+
+}
+
+.wings {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 150px;
+  height: 100px;
+}
+
+.info {
+  padding: 200px;
+  margin-bottom: 40px;
+}
+
+.lyric {
+  color: #F8E5FF;
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;
+  font-size: 25px;
+}
+
+.theSinger {
+  color: #F8E5FF;
+  text-align: center;
+  font-size: 20px;
+  font-family: serif;
+}
+
+
+.mainContainer {
+  padding: 20px;
+}
+
+.audio {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.links {
+  margin: 100px;
+  margin-top: 250px;
+}
+
+.description {
+  color: #F8E5FF;
+  text-align: center;
+  font-size: 25px;
+  font-family: serif;
+}
+
+.spotify {
+
+  width: 100px;
+  height: 100px;
+  margin: 40px;
+}
+.ig {
+  width: 90px;
+  height: 90px;
+  margin: 40px;
+}
+.offshore {
+  width: 100px;
+  height: 100px;
+  margin: 40px;
+}
